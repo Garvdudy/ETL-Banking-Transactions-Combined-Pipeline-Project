@@ -31,5 +31,8 @@ This script includes essential SQL queries used to verify, clean, and prepare th
 
 ---
 
+
+---
+
 ## Website/Portfolio Description Snippet
 > Enterprise-grade, end-to-end ETL banking transactions combined pipeline project. I engineered the entire flow myself — from raw ingestion to curated warehouse and downstream BI visualization. This showcases full-stack data engineering + analytics capability in a single unified pipeline (Excel → MySQL → Power BI) with fraud-risk scoring, merchant category intelligence, and country-wise transaction segmentation — high-scale, multi-tool pipeline work that directly aligns with real banking & insurance analytics environments.

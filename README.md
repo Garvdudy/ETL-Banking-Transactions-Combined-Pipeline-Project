@@ -31,6 +31,8 @@ This script includes essential SQL queries used to verify, clean, and prepare th
 
 ---
 
+💡 Optional Extended Line (for website project section)
+This SQL query file was created to perform database validation, rename tables, check column data types, and run accuracy checks before building the Power BI dashboard. It acts as the foundation of the entire ETL and analysis process.
 
 ---
 

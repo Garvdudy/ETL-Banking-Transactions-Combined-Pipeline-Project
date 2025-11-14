@@ -1,0 +1,5 @@
+1) Cleaning Data
+2) Making xlsv to CSV for MySQL use 
+3) Making flow to data between the pipes from csv to sql
+4) Use of Pipeline happens
+5) Done.....

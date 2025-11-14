@@ -1,0 +1,4 @@
+## Pipeline
+- Project will be made using pipelines
+- Dataflow will happen thorught out the project
+- Excel to SQL to PowerBI

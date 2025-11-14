@@ -44,3 +44,7 @@ This SQL query file was created to perform database validation, rename tables, c
 # This project is NOT completed
 - New Filles and folders will be pushed soon
 - ALso will be Publishied live on www.garvdudy.com soon
+
+---
+
+-> This Repo is based on local pull fomr repo and git Push only using Terminal local machine terminal

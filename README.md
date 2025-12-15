@@ -43,5 +43,6 @@ This SQL query file was created to perform database validation, rename tables, c
 ## Updates Regarding Project.
 ### This project is NOT completed
 - New Filles and folders will be pushed soon
-- ALso will be Publishied live on www.garvdudy.com soon
+- Also will be Publishied live on www.garvdudy.com soon
 - Currently working on Pipelines and Dataflow between SQL and PowerBI
+- Done with Cleaning of Data in MS-Excel and is loaded into MySQL for Querying and Findings

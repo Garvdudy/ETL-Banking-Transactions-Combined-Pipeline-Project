@@ -3,3 +3,4 @@
 3) Making flow to data between the pipes from csv to sql
 4) Use of Pipeline happens
 5) Now I have connect MySQL to Power BI
+6) Using Pipline I have connected these two software.

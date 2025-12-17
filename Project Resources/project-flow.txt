@@ -4,3 +4,4 @@
 4) Use of Pipeline happens
 5) Now I have connect MySQL to Power BI
 6) Using Pipline I have connected these two software.
+7) Now working on PowerBI (Dashboards and Visualizations)

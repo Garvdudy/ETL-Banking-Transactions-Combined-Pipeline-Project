@@ -1,7 +1,7 @@
 -- Basic Querries
 show databases;
 use banking_transaction;
-RENAME TABLE etl_input_global_banking_transactions_v1 TO transactions;
+RENAME TABLE banking_transactions_working_sheet TO transactions;
 describe transactions;
 show tables;
 
@@ -98,3 +98,13 @@ select country_name, channel,
 from transactions
 group by country_name, channel
 order by total_sales desc;
+
+SELECT 
+    merchant_category,
+    COUNT(*) AS total_transactions,
+    SUM(is_fraud) AS fraud_cases,
+    ROUND(SUM(is_fraud)*100.0 / COUNT(*), 2) AS fraud_rate_percent,
+    ROUND(AVG(risk_score), 2) AS avg_risk_score
+FROM transactions
+GROUP BY merchant_category
+ORDER BY fraud_rate_percent DESC;

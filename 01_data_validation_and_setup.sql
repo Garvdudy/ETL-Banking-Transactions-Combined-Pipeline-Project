@@ -1,4 +1,5 @@
 -- Basic Querries
+-- To iden
 show databases;
 use banking_transaction;
 RENAME TABLE banking_transactions_working_sheet TO transactions;

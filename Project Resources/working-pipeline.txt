@@ -1,5 +1,0 @@
-## Pipeline
-- Project will be made using pipelines
-- Dataflow will happen thorught out the project
-- Excel to SQL to PowerBI
-- The Main Reason to create Pipline between these big data units is to keep the flow of data smooth through out the LINE

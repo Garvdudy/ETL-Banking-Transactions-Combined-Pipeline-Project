@@ -25,13 +25,13 @@ To demonstrate that I can operate across the entire data lifecycle — not only 
 
 ---
 
-## Short Description (for README or Website)
+## Description
 Data Validation & Setup SQL Script
 This script includes essential SQL queries used to verify, clean, and prepare the imported banking transactions dataset. It ensures table integrity, correct schema structure, and data accuracy before connecting the database to Power BI for dashboard development.
 
 ---
 
-## Optional Extended Line (for website project section)
+## Extended Description Lines
 This SQL query file was created to perform database validation, rename tables, check column data types, and run accuracy checks before building the Power BI dashboard. It acts as the foundation of the entire ETL and analysis process.
 
 ---

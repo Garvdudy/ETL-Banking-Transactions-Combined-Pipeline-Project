@@ -40,9 +40,3 @@ This SQL query file was created to perform database validation, rename tables, c
 > Enterprise-grade, end-to-end ETL banking transactions combined pipeline project. I engineered the entire flow myself — from raw ingestion to curated warehouse and downstream BI visualization. This showcases full-stack data engineering + analytics capability in a single unified pipeline (Excel → MySQL → Power BI) with fraud-risk scoring, merchant category intelligence, and country-wise transaction segmentation — high-scale, multi-tool pipeline work that directly aligns with real banking & insurance analytics environments.
 
 ---
-## Updates Regarding Project.
-### This project is NOT completed
-- New Filles and folders will be pushed soon
-- Also will be Publishied live on www.garvdudy.com soon
-- Currently working on Pipelines and Dataflow between SQL and PowerBI
-- Done with Cleaning of Data in MS-Excel and is loaded into MySQL for Querying and Findings

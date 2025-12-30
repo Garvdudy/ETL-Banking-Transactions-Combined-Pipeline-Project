@@ -5,7 +5,7 @@ This is an enterprise-style combined pipeline ETL project built on a large messy
 
 The purpose of this case study is to perform end-to-end ETL across multiple tools — proving full pipeline capability from raw ingestion to analytical intelligence.
 
-## What I will be doing
+## What I Have Done
 - Ingest raw dirty CSV dataset into Excel
 - Perform aggressive data cleansing (types, formats, missing values, splits, deduping)
 - Export curated / cleansed data into MySQL Workbench
